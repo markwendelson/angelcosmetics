@@ -1,0 +1,17 @@
+/* include font css start */
+@font-face {
+    font-family: 'Raleway-Bold';
+    src: url('../fonts/Raleway-ExtraBold.ttf');
+}
+@font-face {
+    font-family: 'Raleway-Medium';
+    src: url('../fonts/Raleway-SemiBold.ttf');
+}
+@font-face {
+    font-family: 'Raleway-Regular';
+    src: url('../fonts/Raleway-Regular.ttf');
+}
+@font-face {
+    font-family: 'roboto';
+    src: url('../fonts/Roboto-Regular.ttf');
+}
